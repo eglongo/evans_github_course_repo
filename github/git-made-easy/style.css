@@ -1,0 +1,24 @@
+/* style.css file */
+
+/* Styles the body (the entire page) */
+body {
+  font-family: sans-serif; /* Sets the default font for the page */
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333; /* Dark gray text color */
+  margin: 0 auto; /* Centers the content */
+  width: 90%; /* Limits the width of the content */
+  padding: 20px; /* Adds space around the content */
+  border: 1px solid #ccc; /* Adds a thin border around the content */
+}
+
+/* Styles all <h1> headings */
+h1 {
+  color: blue; /* Blue text */
+  text-shadow: 2px 2px 2px black; /* Adds a subtle shadow */
+}
+
+/* Styles all <p> paragraphs */
+p {
+  line-height: 1.5; /* Increases spacing between lines of text */
+  font-size: 16px; /* Sets the font size */
+}
