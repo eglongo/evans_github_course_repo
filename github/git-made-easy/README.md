@@ -12,3 +12,5 @@ git clone https://github.com/eglongo/evans_github_course_repo
 ```
 
 ## How to use this repository
+
+This is my commit for my git log example.
